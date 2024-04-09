@@ -1,3 +1,3 @@
-Jogo de desviar de inimigos feito em Godot
+Dodge the Creeps!
 
-Jogo feito para estudo da utilização de Godot para jogos 2D
+Jogo feito em Godot para estudo da utilização de Godot para jogos 2D
